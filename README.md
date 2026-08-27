@@ -1,9 +1,4 @@
-@@ -1,19 +1,23 @@
 <div align="center">
-  <img src="assets/hero_banner.jpg" alt="Sujitha Cinematic Hero Banner" width="100%" />
-
-  <br>
-  <br><br>
 
   # ✨ Hi, I'm Sujitha
 

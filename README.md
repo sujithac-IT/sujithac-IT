@@ -1,134 +1,132 @@
 <div align="center">
-  <img src="assets/hero_banner.jpg" alt="Sujitha Cinematic Hero Banner" width="100%" />
 
-  <br><br>
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=140&section=header&text=SUJITH%20AC&fontSize=42&fontColor=58a6ff&fontAlignY=55&desc=Data%20Analyst%20%7C%20Software%20Engineer&descAlignY=80&descAlign=50&descSize=16" />
 
-  # ✨ Hi, I'm Sujitha
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=26&pause=1000&color=B026FF&center=true&vCenter=true&width=600&lines=AI+Explorer;Full-Stack+Developer;Cloud+Enthusiast;Agentic+AI+Builder;Tech+Creator;Future+Software+Engineer" alt="Typing SVG" />
-  </a>
+<br/>
 
-  <br>
-
-  <i>"Building intelligent systems while chasing new roads."</i><br>
-  <code>Code. Create. Ride. Repeat. 🏍️</code>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=58a6ff&labelColor=0d1117)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117)](#)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=0d1117)](#)
 
 </div>
 
-<br>
-<hr style="border: 1px solid rgba(176, 38, 255, 0.3);">
-<br>
+<br/>
 
-## 👤 ABOUT ME
+## About
+
+I build data-driven systems and the software that runs them — from ETL pipelines and analytical models to the backend services that put insights into production. I care about clean data, clean code, and decisions backed by evidence rather than intuition.
+
+- 🔎 Currently focused on: data pipeline design, analytics engineering, and scalable backend systems
+- 🧭 Interests: statistical modeling, cloud data infrastructure, developer tooling
+- 🤝 Open to: data engineering / analytics / backend collaborations
+
+<br/>
+
+## Tech Stack
+
+<div align="left">
+
+**Languages**
+<br/>
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+**Data & Analytics**
+<br/>
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=013243)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=F37626)
+![Power BI](https://img.shields.io/badge/Power%20BI-0d1117?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Tableau](https://img.shields.io/badge/Tableau-0d1117?style=flat-square&logo=tableau&logoColor=E97627)
+
+**Backend & Cloud**
+<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+
+</div>
+
+<br/>
+
+## Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🎓 Education:</b> <br>
-      B.Tech Information Technology <br>
-      <i>Sri Shakthi Institute of Engineering and Technology</i>
-    </td>
-    <td width="50%" valign="top">
-      <b>🌟 Interests:</b> <br>
-      Artificial Intelligence • Agentic AI • Cloud Computing <br>
-      Full-Stack Development • DevOps • Data Analytics • Automation
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+**[Project Name](#)**
+<br/>
+Short description of the problem it solves and the impact — e.g. "ETL pipeline processing 2M+ records/day with automated data quality checks."
+<br/>
+`Python` `SQL` `Airflow`
+
+</td>
+<td width="50%">
+
+**[Project Name](#)**
+<br/>
+Short description — e.g. "Interactive dashboard surfacing key business metrics for stakeholder decision-making."
+<br/>
+`Power BI` `DAX` `SQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Project Name](#)**
+<br/>
+Short description — e.g. "REST API backend service handling authentication and core business logic."
+<br/>
+`FastAPI` `PostgreSQL` `Docker`
+
+</td>
+<td width="50%">
+
+**[Project Name](#)**
+<br/>
+Short description — e.g. "End-to-end ML pipeline for demand forecasting, deployed via CI/CD."
+<br/>
+`Python` `scikit-learn` `AWS`
+
+</td>
+</tr>
 </table>
 
-<br>
-<hr style="border: 1px solid rgba(176, 38, 255, 0.3);">
-<br>
+<br/>
 
-## 🏍️ MY DIGITAL GARAGE
-
-*Welcome to the garage. Each project is a mission.*
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%" style="background-color: rgba(176, 38, 255, 0.05); padding: 20px; border-radius: 10px;">
-      <h3>🚀 OPTRA <br><i>(Main Quest)</i></h3>
-      <p><i>Agentic AI platform for discovering jobs, internships, hackathons, research opportunities, and government exams.</i></p>
-      <code>Agentic AI</code> <code>Next.js</code> <code>Python</code>
-      <br><br>
-      <a href="https://github.com/sujithac-IT"><img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-    <td align="center" width="50%" style="padding: 20px;">
-      <h3>🧤 Smart Sensor Glove</h3>
-      <p><i>A smart wearable project combining hardware and software for intelligent interaction.</i></p>
-      <code>IoT</code> <code>Sensors</code> <code>Python</code>
-      <br><br>
-      <a href="https://github.com/sujithac-IT"><img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <h3>⚡ EV / Battery Intelligence</h3>
-      <p><i>Data analytics and intelligent systems for electric vehicles.</i></p>
-      <code>Data Analytics</code> <code>Python</code>
-      <br><br>
-      <a href="https://github.com/sujithac-IT"><img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <h3>🤖 Future AI Projects</h3>
-      <p><i>Exploring the boundaries of Agentic AI and cloud computing.</i></p>
-      <code>Cloud</code> <code>AI</code>
-      <br><br>
-      <a href="https://github.com/sujithac-IT"><img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
-
-<br>
-<hr style="border: 1px solid rgba(176, 38, 255, 0.3);">
-<br>
-
-## ⚙️ SYSTEM LOADOUT
+## GitHub Stats
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,vite,html,css,firebase,docker,git,github,gcp&theme=dark&perline=7" />
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sujithac-IT&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithac-IT&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="38%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujithac-IT&theme=github-dark-blue&hide_border=true&background=0d1117" width="60%" />
+
 </div>
 
-<br>
-<hr style="border: 1px solid rgba(176, 38, 255, 0.3);">
-<br>
+<br/>
 
-## 🛣️ CURRENT ROAD
+## Get in Touch
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=500&size=20&pause=2000&color=25C2A0&center=true&vCenter=true&width=700&lines=AI+➔+Machine+Learning+➔+Agentic+AI;Agentic+AI+➔+Cloud+➔+DevOps;DevOps+➔+Full-Stack+Systems" alt="Typing SVG" />
-</div>
 
-<br>
-<hr style="border: 1px solid rgba(176, 38, 255, 0.3);">
-<br>
+Open to discussing data engineering, analytics, and backend architecture opportunities.
 
-## 📊 ENGINE STATUS
+[![Email](https://img.shields.io/badge/-Email-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff)](#)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujithac-IT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B026FF&icon_color=25C2A0" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujithac-IT&theme=tokyonight&hide_border=true&background=0D1117&ring=B026FF&fire=25C2A0&currStreakNum=f0f0f0" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithac-IT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B026FF" width="50%" />
-</div>
+<br/><br/>
 
-<br><br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=60&section=footer" />
 
-<div align="center">
-  <img src="assets/footer_scene.jpg" alt="Anime Girl Riding into City" width="100%" />
-
-  <br><br>
-  
-  <i>🌙 Keep building. Keep exploring. Keep moving.</i>
-  
-  <br><br>
-
-  <a href="https://github.com/sujithac-IT"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>

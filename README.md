@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Hero Banner -->
-<img src="assets/hero_banner.jpg" width="100%" alt="Sujitha C - Header Banner" style="border-radius: 8px;" />
-
-<br/>
-
 # Sujitha C
 
-### **Senior Software Developer** · Full-Stack Engineering · AI & Cloud Architecture
+<!-- Dynamic Typing SVG for Roles -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=25C2A0&center=true&vCenter=true&width=600&lines=Senior+Software+Developer;Full-Stack+Engineer;AI+%26+Cloud+Architecture+Specialist;Agentic+AI+Builder" alt="Typing SVG" />
+</a>
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-sujithac--IT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujithac-IT)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujithac)
@@ -19,9 +19,9 @@
 
 ## 💫 About Me
 
-I am a software engineer focused on building **scalable full-stack applications**, **AI-powered systems**, and **cloud-native architectures**. I design and ship production-grade software with an emphasis on clean code, robust system design, and developer experience.
+I am a Software Engineer specializing in **scalable full-stack applications**, **AI-powered architectures**, and **cloud-native systems**. My engineering philosophy focuses on writing clean, well-tested code, designing resilient distributed architectures, and optimizing performance. 
 
-🎓 Currently pursuing **B.Tech in Information Technology** at *Sri Shakthi Institute of Engineering and Technology* while actively building real-world products and contributing to the developer ecosystem.
+🎓 Pursuing a **B.Tech in Information Technology** at *Sri Shakthi Institute of Engineering and Technology*, where I apply theoretical computer science foundations to build production-ready developer tools and systems.
 
 ---
 
@@ -39,47 +39,47 @@ I am a software engineer focused on building **scalable full-stack applications*
 | :--- | :--- |
 | **Languages** | Python · TypeScript · JavaScript · SQL |
 | **Frontend** | React · Next.js · Vite · HTML5 · CSS3 |
-| **Backend** | Node.js · Express · REST APIs · GraphQL |
-| **AI / ML** | Agentic AI · LLM Integration · Machine Learning Pipelines |
-| **Cloud & DevOps** | Google Cloud Platform · Docker · CI/CD · Firebase |
-| **Data & Databases** | PostgreSQL · MongoDB · Firebase Realtime DB · Data Analytics |
-| **Tools** | Git · GitHub Actions · VS Code · Linux · Postman |
+| **Backend & APIs** | Node.js · Express · RESTful APIs · GraphQL |
+| **AI & Systems** | Agentic AI · LLM Integration · Machine Learning Pipelines |
+| **Cloud & DevOps** | Google Cloud Platform (GCP) · Docker · CI/CD Pipelines · Firebase |
+| **Databases & Analytics** | PostgreSQL · MongoDB · Firebase Realtime DB · Data Engineering |
+| **Developer Tools** | Git · GitHub Actions · VS Code · Linux · Postman |
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 OPTRA — Agentic AI Opportunity Platform
-> AI-driven platform for discovering jobs, internships, hackathons, research opportunities, and government exams using autonomous agents.
+> An autonomous AI-driven orchestration system for real-time aggregation and discovery of global opportunities.
 
-**Tech Stack:** `Next.js` `Python` `Agentic AI` `GCP` `REST API`
-- Architected a multi-agent pipeline for real-time opportunity aggregation.
-- Built a highly responsive frontend with server-side rendering for optimal SEO.
-- Designed scalable backend microservices with structured API contracts.
+**Tech Stack:** `Next.js` `Python` `Agentic AI` `Google Cloud Platform` `REST API`
+- **Multi-Agent Architecture:** Designed and built a concurrent multi-agent data pipeline in Python that aggregates opportunities from 10+ dynamic external sources.
+- **Frontend Optimization:** Engineered a Next.js application leveraging Server-Side Rendering (SSR) to minimize Initial Page Load time and enhance SEO metrics.
+- **API Reliability:** Designed clean, structured API interfaces and strict data schemas to establish robust communication contracts across decoupled microservices.
 
 👉 [**View Repository**](https://github.com/sujithac-IT)
 
 ---
 
 ### 🔹 Smart Sensor Glove — IoT Wearable System
-> Hardware-software integrated wearable for intelligent gesture recognition and environmental interaction.
+> Hardware-software co-designed wearable interface implementing real-time gesture classification.
 
 **Tech Stack:** `Python` `IoT` `Sensor Fusion` `Embedded Systems`
-- Developed signal processing pipelines for multi-sensor data fusion.
-- Implemented real-time gesture classification with optimized edge inference.
-- Designed modular firmware architecture for easy extensibility.
+- **Signal Processing:** Implemented a real-time data fusion pipeline in Python to denoise and synchronize inputs from multiple analog and digital sensors.
+- **Edge Inference:** Deployed optimized gesture classification models directly on edge devices, maintaining a low memory footprint and sub-second classification latency.
+- **Modular Firmware:** Developed a hot-swappable sensor module driver interface to allow seamless hardware additions without refactoring the core kernel loop.
 
 👉 [**View Repository**](https://github.com/sujithac-IT)
 
 ---
 
-### 🔹 EV Battery Intelligence — Data Analytics Platform
-> Analytical system for electric vehicle battery performance monitoring and predictive insights.
+### 🔹 EV Battery Intelligence — Telemetry Analytics Platform
+> Real-time data pipeline and analytical dashboard for monitoring electric vehicle battery health.
 
-**Tech Stack:** `Python` `Data Analytics` `Visualization` `Statistical Modeling`
-- Built data ingestion and transformation pipelines for real-time battery telemetry.
-- Developed interactive dashboards for performance trend and anomaly analysis.
-- Applied statistical models to generate predictive maintenance insights.
+**Tech Stack:** `Python` `Data Engineering` `Visualization` `Statistical Modeling`
+- **Telemetry Pipelines:** Architected high-throughput ingestion pipelines using Python to process streaming telemetry data from EV battery systems.
+- **Interactive Dashboards:** Created customizable data visualization screens to assist battery test engineers in tracking voltage, current, and thermal anomalies.
+- **Predictive Analytics:** Implemented statistical models to analyze telemetry historical trends, predicting degradation cycles and preventing battery failures.
 
 👉 [**View Repository**](https://github.com/sujithac-IT)
 
@@ -109,21 +109,16 @@ I am a software engineer focused on building **scalable full-stack applications*
 ## ⚡ Current Focus
 
 ```text
-→  Scaling agentic AI systems for production workloads
-→  Deepening expertise in cloud-native architecture (GCP)
-→  Building full-stack applications with modern frameworks
-→  Exploring MLOps and model deployment pipelines
+→  Scaling production workloads for agentic AI systems
+→  Deepening expertise in GCP cloud-native service architecture
+→  Designing highly responsive full-stack applications
+→  Optimizing MLOps and automated model deployment pipelines
 ```
 
 ---
 
 <div align="center">
 
-*Open to collaboration on impactful software projects.*
-
-<br/>
-
-<!-- Footer Banner -->
-<img src="assets/footer_scene.jpg" width="100%" alt="Sujitha C - Footer Banner" style="border-radius: 8px;" />
+*Open to collaboration on impactful software engineering projects.*
 
 </div>

@@ -10,7 +10,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-sujithac--IT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujithac-IT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujithac)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujitha-chandrasekharan-64636233a/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujitha.c.it@gmail.com)
 
 </div>
